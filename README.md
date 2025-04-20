@@ -4,6 +4,7 @@
 - Docker
 - docker-compose
 - SCS-Sender (Spring Cloud Stream & Azure Servicebus Emulator Producer Example)
+  - https://github.com/afsinka/servicebus-scs-sender
 
 ### Setup
 - Run this SCS-Receiver application in your IDE
